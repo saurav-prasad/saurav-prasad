@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently 2nd year Computer Science Student<br>👯 I’m looking to collaborate on software development projects<br>🌱 I’m currently learning javascript<br>💬 Ask me about project collaboration
+🔭 I’m currently 2nd year Computer Science Student<br>👯 I’m looking to collaborate on software development projects<br>🌱 I’m currently learning web developement<br>💬 Ask me about project collaboration
 
 
 ## 🌐 Socials:
