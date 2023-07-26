@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=saurav-prasad&limit=5&theme=discord&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="[https://rm.up.railway.app/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlBlzVgtXkwNjIKmKw26q5oPcatD6pIFW9yw&usqp=CAU)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=saurav-prasad&icon=6&color=0)](https://visitcount.itsvg.in)
