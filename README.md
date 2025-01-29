@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m 3rd-year Computer Science student<br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for opportunities in frontend development<br>🌱 I’m currently working on Full-stack devlopement<br>💬 Ask me about collaborations<br>
+🔭 I’m 3rd-year Computer Science student<br>👯 I’m looking to collaborate on web development projects<br>🤝 I’m looking for opportunities in fullstack development<br>🌱 I’m currently working on Full-stack devlopement<br>💬 Ask me about collaborations<br>
 
 
 ## 🌐 Socials:
